@@ -16,9 +16,9 @@ Controlling gamer:
 * RIGHT 'd'
 
 As in orginal game, stoneS are falling down if there is no ground under (that's  called gravity, you know ).
-** See example file for basic board **.
+**See example file for basic board**.
 
-After first empty line program in waiting for commands to move gamer. If you use input mode (without **-TUI**) just type them and than the program will output final board. 
+After first empty line program in waiting for commands to move gamer. If you use input mode (without *-TUI*) just type them and than the program will output final board. 
 
-<h2> Graphcial mode</h2>
-With **TUI** option you can use game in real time. Graphcial mode is created using ncurses *library*. You should use option * -lncurses* during compilation. Enjoy real emotions :)
+<h2> Graphcial mode </h2>
+With *TUI* option you can use game in real time. Graphcial mode is created using ncurses library. You should use option *-lncurses* during compilation. Enjoy real emotions :)
